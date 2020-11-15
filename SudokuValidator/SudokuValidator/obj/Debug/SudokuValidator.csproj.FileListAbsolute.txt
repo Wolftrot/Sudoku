@@ -1,0 +1,6 @@
+F:\04-modules-ict\155-ProgrammationEnTempsReel\Ex\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.exe.config
+F:\04-modules-ict\155-ProgrammationEnTempsReel\Ex\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.exe
+F:\04-modules-ict\155-ProgrammationEnTempsReel\Ex\SudokuValidator\SudokuValidator\bin\Debug\SudokuValidator.pdb
+F:\04-modules-ict\155-ProgrammationEnTempsReel\Ex\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.csprojAssemblyReference.cache
+F:\04-modules-ict\155-ProgrammationEnTempsReel\Ex\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.exe
+F:\04-modules-ict\155-ProgrammationEnTempsReel\Ex\SudokuValidator\SudokuValidator\obj\Debug\SudokuValidator.pdb
